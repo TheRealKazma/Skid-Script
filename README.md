@@ -1,5 +1,4 @@
 # Skid-Script
-This is a Script for your average Skid (Script Kid)
 
 **Features**
 - Doxer
